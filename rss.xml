@@ -4,21 +4,21 @@
         <description><![CDATA[Motive.io]]></description>
         <link>https://thegrid.ai/motive/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 18:59:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 19:02:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/motive/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Motive.io</p>]]></description>
+            <link>https://thegrid.ai/motive/motiveio/index.html</link>
+            <guid isPermaLink="false">a8c424bf-cfd5-473e-a59f-6b1da5045bf8</guid>
+            <pubDate>Tue, 03 May 2016 19:02:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Soundwalk Collective]]></title>
             <description><![CDATA[<article><h1>Soundwalk Collective</h1><p>April 1-30, 2016 Soundwalk Collective will present JUNGLE-IZED: a month-long interactive multi-sensory art installation that will transform Times Square, transporting over half a million visitors daily to the heart of the Amazon, by following the 73rd Meridian West that connects Times Square with the Amazon rainforest.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2adc16db-1641-4c59-8254-90b3450415b5.jpg"></article>]]></description>
             <link>https://thegrid.ai/motive/soundwalk-collective/index.html</link>
             <guid isPermaLink="false">5cca400f-c772-411b-aeef-f0a865c511d7</guid>
             <pubDate>Tue, 03 May 2016 18:59:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Motive.io</p>]]></description>
-            <link>https://thegrid.ai/motive/motiveio/index.html</link>
-            <guid isPermaLink="false">a8c424bf-cfd5-473e-a59f-6b1da5045bf8</guid>
-            <pubDate>Tue, 03 May 2016 18:47:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
