@@ -1,4 +1,4 @@
-name: motive
+name: motive.io
 favicon: null
 layout_spectrum: 0.5045175068080425
 typography_spectrum: 0.6737441343721002
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.609199644997716
+    - '#17292d'
+    - '#6bb9b9'
+    - '#ea6625'
+    - '#ffffff'
+    - '#e62949'
+  brandStrength: 1
   lightness: 0.9152086286339909
-  saturation: 0.34816255304031074
+  saturation: 0.1875
   rhythmicContrast: 0.5728037117514759
 purpose: []
