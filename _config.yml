@@ -2,6 +2,7 @@ name: motive
 favicon: null
 layout_spectrum: 0.5045175068080425
 typography_spectrum: 0.6737441343721002
+title: Motive.io
 cta:
   domain: null
   bucket: null
