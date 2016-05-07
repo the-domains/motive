@@ -1,6 +1,6 @@
 name: motive.io
 favicon: null
-layout_spectrum: 0.24852
+layout_spectrum: 1
 typography_spectrum: 0.30926
 title: Motive.io
 cta:
@@ -22,8 +22,8 @@ color:
     - '#ea6625'
     - '#ffffff'
     - '#e62949'
-  brandStrength: 0.1875
-  lightness: 0.5
+  brandStrength: 1
+  lightness: 1
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose: []
