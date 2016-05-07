@@ -4,28 +4,28 @@
         <description><![CDATA[Motive.io]]></description>
         <link>https://thegrid.ai/motive/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 23:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 23:21:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/motive/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Game]]></title>
-            <description><![CDATA[<article><h1>Game</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31c01643-1d8b-4257-b0ea-e94aa0b85530.jpg"></article>]]></description>
-            <link>https://thegrid.ai/motive/game/index.html</link>
-            <guid isPermaLink="false">e9bf70f3-06a5-4ddd-9f40-b75961ab8f36</guid>
-            <pubDate>Sat, 07 May 2016 23:20:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Create Adventures]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45be6d2a2c63f5addfb2491dca4316c13e9a978e.png" alt="" title="">]]></description>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45be6d2a2c63f5addfb2491dca4316c13e9a978e.png" alt="Sell hats" title="">]]></description>
             <link>https://thegrid.ai/motive/motiveio/index.html</link>
             <guid isPermaLink="false">a8c424bf-cfd5-473e-a59f-6b1da5045bf8</guid>
-            <pubDate>Sat, 07 May 2016 23:09:16 GMT</pubDate>
+            <pubDate>Sat, 07 May 2016 23:21:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Case Study: Soundwalk NYC]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/34a20427-142e-436e-a421-2206352e5e2b.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/motive/case-study-soundwalk-nyc/index.html</link>
             <guid isPermaLink="false">ef1e04fd-523c-421b-bada-c9e4ec07d9dc</guid>
-            <pubDate>Sat, 07 May 2016 23:09:10 GMT</pubDate>
+            <pubDate>Sat, 07 May 2016 23:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Game]]></title>
+            <description><![CDATA[<article><h1>Game</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31c01643-1d8b-4257-b0ea-e94aa0b85530.jpg"></article>]]></description>
+            <link>https://thegrid.ai/motive/game/index.html</link>
+            <guid isPermaLink="false">e9bf70f3-06a5-4ddd-9f40-b75961ab8f36</guid>
+            <pubDate>Sat, 07 May 2016 23:20:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
