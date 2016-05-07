@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'An interactive sonic visual art installation in Times Square celebrating Earth Month, April 1-30, 2016 in collaboration with a Voice for Nature. Featuring Amazon Rainforest Sound Environments Recorded by Francisco López.'
-datePublished: '2016-05-07T23:09:10.302Z'
-dateModified: '2016-05-07T23:08:53.378Z'
+datePublished: '2016-05-07T23:21:13.167Z'
+dateModified: '2016-05-07T23:20:51.238Z'
 title: ''
 author:
   - name: ''
